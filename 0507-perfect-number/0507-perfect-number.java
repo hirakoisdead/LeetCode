@@ -8,11 +8,7 @@ class Solution {
             sum=sum+i;
             }
         }
-        if(comp==sum){
-            return true;
-        }
-        else{
-            return false;
-        }
+        
+        return (comp==sum);
     }
 }
