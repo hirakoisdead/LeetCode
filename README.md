@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hirakoisdead/Leet-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hirakoisdead/Leet-code/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
