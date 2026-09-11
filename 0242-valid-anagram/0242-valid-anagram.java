@@ -4,6 +4,7 @@ class Solution {
         HashMap <Character, Integer> freq1=new HashMap<>();
         HashMap <Character, Integer> freq2=new HashMap<>();
         
+        if(s.length() != t.length()){ return false;}
         for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);
 
