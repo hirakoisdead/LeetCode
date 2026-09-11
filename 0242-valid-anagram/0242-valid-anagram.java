@@ -16,11 +16,7 @@ class Solution {
             freq2.put(d, freq2.getOrDefault(d, 0) + 1);
 
         }
-
-        if(freq1.equals(freq2)){
-            return true;
-        }
-        return false;
+        return freq1.equals(freq2);
 
     }
 }
