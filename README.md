@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/hirakoisdead/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hirakoisdead/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
