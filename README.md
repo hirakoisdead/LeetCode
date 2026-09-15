@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/hirakoisdead/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -74,4 +77,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hirakoisdead/LeetCode/tree/master/0136-single-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
