@@ -7,6 +7,7 @@
 | [0070-climbing-stairs](https://github.com/hirakoisdead/Leet-code/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/hirakoisdead/Leet-code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/hirakoisdead/Leet-code/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
