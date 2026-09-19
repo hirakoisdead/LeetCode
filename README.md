@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/hirakoisdead/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/hirakoisdead/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
