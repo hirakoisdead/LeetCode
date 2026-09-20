@@ -43,6 +43,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/hirakoisdead/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/hirakoisdead/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/hirakoisdead/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/hirakoisdead/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hirakoisdead/LeetCode/tree/master/0136-single-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/hirakoisdead/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
