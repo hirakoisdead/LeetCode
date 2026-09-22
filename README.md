@@ -8,6 +8,7 @@
 | [0507-perfect-number](https://github.com/hirakoisdead/Leet-code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/hirakoisdead/Leet-code/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hirakoisdead/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/hirakoisdead/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
