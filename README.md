@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/hirakoisdead/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/hirakoisdead/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
