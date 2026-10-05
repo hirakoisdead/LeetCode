@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hirakoisdead/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hirakoisdead/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/hirakoisdead/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hirakoisdead/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hirakoisdead/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
