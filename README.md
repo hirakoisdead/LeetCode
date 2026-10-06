@@ -36,6 +36,7 @@
 | [0485-max-consecutive-ones](https://github.com/hirakoisdead/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/hirakoisdead/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2706-buy-two-chocolates](https://github.com/hirakoisdead/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/hirakoisdead/Leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hirakoisdead/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hirakoisdead/Leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [2706-buy-two-chocolates](https://github.com/hirakoisdead/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/hirakoisdead/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/hirakoisdead/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Database
 |  |
 | ------- |
